@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\bin\Debug\ArchivosVisuales.exe.config
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\bin\Debug\ArchivosVisuales.exe
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\bin\Debug\ArchivosVisuales.pdb
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.exe
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Debug\ArchivosVisuales.pdb

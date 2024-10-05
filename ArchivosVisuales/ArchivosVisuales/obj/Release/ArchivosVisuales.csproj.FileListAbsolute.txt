@@ -1,0 +1,5 @@
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Release\ArchivosVisuales.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Release\ArchivosVisuales.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Release\ArchivosVisuales.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Release\ArchivosVisuales.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion14\ArchivosVisuales\ArchivosVisuales\obj\Release\ArchivosVisuales.csproj.CoreCompileInputs.cache
